@@ -32,12 +32,24 @@ h1{
     max-width: 300px;
     border: 2px solid darkgreen;
     box-shadow: 5px 5px 10px blue, -5px -5px 10px violet;
-    
-    
-  
- 
+
+    margin-left: 40vw;
+
 
 }
+
+
+
 .img-tar{
     width: 100%;
+   
+  
+}
+
+.text-img{
+    font-weight: bold;
+    font-style: italic;
+    
+   text-align: center;
+   text-shadow: 1px 1px rgb(33, 145, 38);
 }
